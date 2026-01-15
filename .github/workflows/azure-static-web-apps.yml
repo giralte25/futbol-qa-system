@@ -28,7 +28,8 @@ jobs:
           action: "upload"
           app_location: "/"
           api_location: ""
-          output_location: ".next"
+          output_location: ""
+          skip_app_build: false
         env:
           AZURE_LANGUAGE_KEY: ${{ secrets.AZURE_LANGUAGE_KEY }}
           AZURE_LANGUAGE_ENDPOINT: ${{ secrets.AZURE_LANGUAGE_ENDPOINT }}
