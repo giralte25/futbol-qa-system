@@ -1,0 +1,368 @@
+{
+  "projectName": "futbol-qa",
+  "language": "es",
+  "qnas": [
+    {
+      "id": 1,
+      "answer": "España ganó su primera y única Copa del Mundo en 2010 en Sudáfrica. La final se jugó el 11 de julio de 2010 en el Soccer City de Johannesburgo, donde España venció a Holanda 1-0 con gol de Andrés Iniesta en el minuto 116 de la prórroga. Vicente del Bosque era el entrenador.",
+      "source": "seleccion_espanola",
+      "questions": [
+        "¿Cuándo ganó España su primera Copa del Mundo?",
+        "¿En qué año ganó España el Mundial?",
+        "¿Cuántos mundiales ha ganado España?",
+        "¿Dónde ganó España su único Mundial?"
+      ],
+      "metadata": {
+        "category": "seleccion",
+        "year": "2010",
+        "competition": "mundial"
+      }
+    },
+    {
+      "id": 2,
+      "answer": "España ha ganado 4 Eurocopas (récord compartido con Alemania): 1964 en España, 2008 en Austria y Suiza, 2012 en Polonia y Ucrania, y 2024 en Alemania. España es una de las selecciones más exitosas de Europa en este torneo.",
+      "source": "seleccion_espanola",
+      "questions": [
+        "¿Cuántas Eurocopas ha ganado España?",
+        "¿En qué años ganó España la Eurocopa?",
+        "¿Cuántas veces ha sido campeona España de Europa?",
+        "¿Cuál fue la primera Eurocopa de España?"
+      ],
+      "metadata": {
+        "category": "seleccion",
+        "competition": "eurocopa"
+      }
+    },
+    {
+      "id": 3,
+      "answer": "David Villa es el máximo goleador histórico de la selección española con 59 goles en 98 partidos internacionales. Villa jugó para España entre 2005 y 2017 y fue clave en la consecución de la Eurocopa 2008, el Mundial 2010 y la Eurocopa 2012.",
+      "source": "seleccion_espanola",
+      "questions": [
+        "¿Quién es el máximo goleador de la selección española?",
+        "¿Quién ha marcado más goles con España?",
+        "¿Cuántos goles tiene David Villa con España?",
+        "¿Quién es el máximo artillero de España?"
+      ],
+      "metadata": {
+        "category": "jugadores",
+        "player": "David Villa"
+      }
+    },
+    {
+      "id": 4,
+      "answer": "Vicente del Bosque fue el entrenador de la selección española que ganó el Mundial de 2010 en Sudáfrica. También dirigió a España en la consecución de la Eurocopa 2012, convirtiéndose en uno de los entrenadores más exitosos de la historia del fútbol español.",
+      "source": "seleccion_espanola",
+      "questions": [
+        "¿Quién fue el entrenador de España en el Mundial 2010?",
+        "¿Quién entrenaba a España cuando ganó el Mundial?",
+        "¿Quién era el seleccionador español en 2010?"
+      ],
+      "metadata": {
+        "category": "entrenadores",
+        "year": "2010"
+      }
+    },
+    {
+      "id": 5,
+      "answer": "Dos jugadores españoles han ganado el Balón de Oro: Luis Suárez en 1960 (Barcelona) y Rodri en 2024 (Manchester City). Rodri se convirtió en el primer español en ganar el premio en 64 años tras su actuación clave en el triplete del Manchester City y la Eurocopa 2024.",
+      "source": "jugadores_historicos",
+      "questions": [
+        "¿Qué jugadores españoles han ganado el Balón de Oro?",
+        "¿Qué españoles han sido Balón de Oro?",
+        "¿Ha ganado algún español el Balón de Oro?",
+        "¿Quién fue el último español en ganar el Balón de Oro?"
+      ],
+      "metadata": {
+        "category": "premios",
+        "award": "balon_oro"
+      }
+    },
+    {
+      "id": 6,
+      "answer": "Lionel Messi es el máximo goleador histórico de La Liga con 474 goles en 520 partidos con el FC Barcelona entre 2004 y 2021. Le sigue Cristiano Ronaldo con 311 goles en 292 partidos con el Real Madrid entre 2009 y 2018.",
+      "source": "la_liga",
+      "questions": [
+        "¿Quién es el máximo goleador de la historia de La Liga?",
+        "¿Quién ha marcado más goles en La Liga?",
+        "¿Cuántos goles tiene Messi en La Liga?",
+        "¿Quién es el máximo artillero de la Liga española?"
+      ],
+      "metadata": {
+        "category": "records",
+        "competition": "la_liga"
+      }
+    },
+    {
+      "id": 7,
+      "answer": "El Real Madrid es el club con más títulos de La Liga con 36 campeonatos (hasta 2024). Le sigue el FC Barcelona con 27 títulos y el Atlético de Madrid con 11 títulos.",
+      "source": "la_liga",
+      "questions": [
+        "¿Qué equipo ha ganado más títulos de La Liga?",
+        "¿Cuántas Ligas ha ganado el Real Madrid?",
+        "¿Qué equipo es el más laureado de España?",
+        "¿Cuántos títulos tiene el Barcelona en La Liga?"
+      ],
+      "metadata": {
+        "category": "palmares",
+        "competition": "la_liga"
+      }
+    },
+    {
+      "id": 8,
+      "answer": "El Real Madrid ganó La Liga en la temporada 2023-2024, su título número 36. El equipo dirigido por Carlo Ancelotti se proclamó campeón con varias jornadas de antelación, destacando el rendimiento de Jude Bellingham como máxima estrella.",
+      "source": "la_liga",
+      "questions": [
+        "¿Quién ganó La Liga en la temporada 2023-2024?",
+        "¿Quién fue el campeón de La Liga 2024?",
+        "¿Qué equipo ganó la Liga española más reciente?"
+      ],
+      "metadata": {
+        "category": "actualidad",
+        "year": "2024"
+      }
+    },
+    {
+      "id": 9,
+      "answer": "El FC Barcelona tiene el récord de puntos en una temporada de La Liga con 100 puntos conseguidos en la temporada 2012-2013 bajo el mando de Tito Vilanova. El Real Madrid también logró 100 puntos en la temporada 2011-2012 con José Mourinho.",
+      "source": "la_liga",
+      "questions": [
+        "¿Cuál es el récord de puntos en una temporada de La Liga?",
+        "¿Cuántos puntos máximos se han conseguido en La Liga?",
+        "¿Qué equipo tiene el récord de puntos en una Liga española?"
+      ],
+      "metadata": {
+        "category": "records",
+        "record_type": "points"
+      }
+    },
+    {
+      "id": 10,
+      "answer": "El Real Madrid ha ganado 15 UEFA Champions League (hasta 2024), siendo el club más exitoso en la historia de la competición. Sus títulos son: 1956, 1957, 1958, 1959, 1960, 1966, 1998, 2000, 2002, 2014, 2016, 2017, 2018, 2022 y 2024.",
+      "source": "champions_league",
+      "questions": [
+        "¿Cuántas Champions League ha ganado el Real Madrid?",
+        "¿Cuántas Copas de Europa tiene el Real Madrid?",
+        "¿Qué equipo ha ganado más Champions?",
+        "¿Cuándo ganó el Real Madrid su última Champions?"
+      ],
+      "metadata": {
+        "category": "palmares",
+        "competition": "champions",
+        "team": "Real Madrid"
+      }
+    },
+    {
+      "id": 11,
+      "answer": "El FC Barcelona ha ganado 5 UEFA Champions League: 1992 (Wembley), 2006 (París), 2009 (Roma), 2011 (Wembley) y 2015 (Berlín). El club catalán es el quinto más exitoso en la historia de la competición.",
+      "source": "champions_league",
+      "questions": [
+        "¿Cuántas Champions League ha ganado el FC Barcelona?",
+        "¿Cuántas Copas de Europa tiene el Barcelona?",
+        "¿En qué años ganó el Barça la Champions?"
+      ],
+      "metadata": {
+        "category": "palmares",
+        "competition": "champions",
+        "team": "Barcelona"
+      }
+    },
+    {
+      "id": 12,
+      "answer": "Dani Carvajal y Luka Modrić comparten el récord con 6 Champions League cada uno, todas con el Real Madrid. Carvajal las ganó en 2014, 2016, 2017, 2018, 2022 y 2024. Modrić también en los mismos años.",
+      "source": "champions_league",
+      "questions": [
+        "¿Qué jugador ha ganado más Champions League?",
+        "¿Quién tiene más Champions en su palmarés?",
+        "¿Cuántas Champions tiene Modric?"
+      ],
+      "metadata": {
+        "category": "records",
+        "record_type": "player_titles"
+      }
+    },
+    {
+      "id": 13,
+      "answer": "Los equipos españoles han ganado 20 UEFA Champions League en total: Real Madrid 15, Barcelona 5 y Atlético de Madrid 0 (3 subcampeonatos). España es el país con más títulos de Champions League.",
+      "source": "champions_league",
+      "questions": [
+        "¿Cuántas Champions League han ganado equipos españoles en total?",
+        "¿Cuántas Copas de Europa han ganado clubes españoles?",
+        "¿Qué país tiene más Champions League?"
+      ],
+      "metadata": {
+        "category": "records",
+        "scope": "country"
+      }
+    },
+    {
+      "id": 14,
+      "answer": "El Sevilla FC es el equipo español y mundial que más veces ha ganado la UEFA Europa League con 7 títulos: 2006, 2007, 2014, 2015, 2016, 2020 y 2023. Es conocido como el 'Rey de Copas'.",
+      "source": "europa_league",
+      "questions": [
+        "¿Qué equipo español ha ganado más Europa League?",
+        "¿Cuántas UEFA ha ganado el Sevilla?",
+        "¿Qué equipo ha ganado más Europa League?",
+        "¿Cuándo ganó el Sevilla su última Europa League?"
+      ],
+      "metadata": {
+        "category": "palmares",
+        "competition": "europa_league",
+        "team": "Sevilla"
+      }
+    },
+    {
+      "id": 15,
+      "answer": "Además del Sevilla (7), otros equipos españoles que han ganado la Europa League/Copa UEFA son: Real Madrid (2), Atlético de Madrid (3), Valencia (1) y Villarreal (1). España es el país más exitoso en esta competición.",
+      "source": "europa_league",
+      "questions": [
+        "¿Qué otros equipos españoles han ganado la Europa League?",
+        "¿Cuántos equipos españoles han ganado la UEFA?",
+        "¿Ha ganado el Villarreal alguna competición europea?"
+      ],
+      "metadata": {
+        "category": "palmares",
+        "competition": "europa_league"
+      }
+    },
+    {
+      "id": 16,
+      "answer": "Hay debate, pero muchos consideran a Andrés Iniesta el mejor jugador español de la historia por su papel en los éxitos de España (Mundial 2010, Eurocopas 2008 y 2012) y el Barcelona (4 Champions, 9 Ligas). Otros candidatos son Xavi Hernández, Raúl González y Alfredo Di Stéfano.",
+      "source": "jugadores_historicos",
+      "questions": [
+        "¿Quién es considerado el mejor jugador español de la historia?",
+        "¿Quién ha sido el mejor futbolista español?",
+        "¿Es Iniesta el mejor jugador español de todos los tiempos?"
+      ],
+      "metadata": {
+        "category": "opiniones",
+        "topic": "best_player"
+      }
+    },
+    {
+      "id": 17,
+      "answer": "Andoni Zubizarreta es el jugador con más partidos en La Liga con 622 encuentros disputados entre 1981 y 1998 jugando para Athletic Club, Barcelona y Valencia. Como portero, tuvo una longevidad excepcional.",
+      "source": "jugadores_historicos",
+      "questions": [
+        "¿Quién es el jugador español con más partidos en La Liga?",
+        "¿Quién ha jugado más partidos en La Liga?",
+        "¿Cuántos partidos jugó Zubizarreta en La Liga?"
+      ],
+      "metadata": {
+        "category": "records",
+        "player": "Zubizarreta"
+      }
+    },
+    {
+      "id": 18,
+      "answer": "La Liga española está compuesta por 20 equipos que compiten cada temporada. Cada equipo juega 38 partidos (19 en casa y 19 fuera), y los tres últimos clasificados descienden a Segunda División.",
+      "source": "la_liga",
+      "questions": [
+        "¿Cuántos equipos compiten en La Liga?",
+        "¿Cuántos equipos hay en Primera División?",
+        "¿Cuántos partidos juega cada equipo en La Liga?"
+      ],
+      "metadata": {
+        "category": "formato",
+        "competition": "la_liga"
+      }
+    },
+    {
+      "id": 19,
+      "answer": "Los primeros 4 equipos de La Liga se clasifican para la Champions League. El 5º y el ganador de la Copa del Rey van a la Europa League. El 6º clasificado va a la Conference League (si el ganador de Copa ya está clasificado para Europa).",
+      "source": "la_liga",
+      "questions": [
+        "¿Cómo se clasifican los equipos españoles para competiciones europeas?",
+        "¿Cuántos equipos españoles van a la Champions?",
+        "¿Cómo se clasifica para Europa en España?"
+      ],
+      "metadata": {
+        "category": "formato",
+        "topic": "european_qualification"
+      }
+    },
+    {
+      "id": 20,
+      "answer": "La Supercopa de España es un torneo que enfrenta al campeón de La Liga y al ganador de la Copa del Rey (más los subcampeones de ambas competiciones desde 2020). Desde 2020 se juega en formato Final Four en Arabia Saudita en enero.",
+      "source": "competiciones",
+      "questions": [
+        "¿Qué es la Supercopa de España?",
+        "¿Dónde se juega la Supercopa de España?",
+        "¿Qué equipos juegan la Supercopa?"
+      ],
+      "metadata": {
+        "category": "competiciones",
+        "competition": "supercopa"
+      }
+    },
+    {
+      "id": 21,
+      "answer": "El Camp Nou del FC Barcelona es el estadio más grande de España con una capacidad de 99,354 espectadores (actualmente en remodelación hasta 2026). Le sigue el Santiago Bernabéu del Real Madrid con capacidad para 81,044 espectadores tras su reciente remodelación.",
+      "source": "estadios",
+      "questions": [
+        "¿Cuál es el estadio más grande de España?",
+        "¿Qué estadio tiene más capacidad en España?",
+        "¿Cuántos espectadores caben en el Camp Nou?"
+      ],
+      "metadata": {
+        "category": "infraestructura",
+        "topic": "stadiums"
+      }
+    },
+    {
+      "id": 22,
+      "answer": "El Clásico es el partido entre el Real Madrid y el FC Barcelona, considerado uno de los encuentros más importantes del fútbol mundial. Representa la rivalidad deportiva, cultural y política entre Madrid y Cataluña. Se han enfrentado más de 250 veces en todas las competiciones.",
+      "source": "derbis",
+      "questions": [
+        "¿Qué es El Clásico?",
+        "¿Qué equipos juegan El Clásico?",
+        "¿Por qué es importante el Madrid vs Barcelona?"
+      ],
+      "metadata": {
+        "category": "rivalidades",
+        "match": "clasico"
+      }
+    },
+    {
+      "id": 23,
+      "answer": "El derbi madrileño es el enfrentamiento entre Real Madrid y Atlético de Madrid, los dos principales clubes de la capital española. Es uno de los derbis más intensos de Europa, especialmente desde el resurgimiento del Atlético bajo Diego Simeone desde 2011.",
+      "source": "derbis",
+      "questions": [
+        "¿Qué es el derbi madrileño?",
+        "¿Qué equipos juegan el derbi de Madrid?",
+        "¿Cuál es la rivalidad en Madrid?"
+      ],
+      "metadata": {
+        "category": "rivalidades",
+        "match": "derbi_madrileno"
+      }
+    },
+    {
+      "id": 24,
+      "answer": "La mayor goleada en La Liga es 12-1, resultado que se ha dado dos veces: Athletic Bilbao 12-1 Barcelona (1931) y Barcelona 12-1 Las Palmas (1959). En la era moderna, el Barcelona ganó 8-0 al Osasuna en 2022.",
+      "source": "records",
+      "questions": [
+        "¿Cuál es la mayor goleada en La Liga?",
+        "¿Cuál es el resultado más abultado en La Liga?",
+        "¿Qué equipo ha metido más goles en un partido de Liga?"
+      ],
+      "metadata": {
+        "category": "records",
+        "record_type": "biggest_win"
+      }
+    },
+    {
+      "id": 25,
+      "answer": "Antoni Ramallets tiene el récord de partidos consecutivos sin encajar gol en La Liga con 8 partidos (712 minutos) con el Barcelona en 1956. En la era moderna, el récord lo tiene Víctor Valdés con 896 minutos sin encajar en 2015.",
+      "source": "records",
+      "questions": [
+        "¿Quién es el portero con más partidos imbatido en La Liga?",
+        "¿Qué portero estuvo más tiempo sin encajar en La Liga?",
+        "¿Cuál es el récord de imbatibilidad en La Liga?"
+      ],
+      "metadata": {
+        "category": "records",
+        "record_type": "clean_sheets"
+      }
+    }
+  ]
+}
