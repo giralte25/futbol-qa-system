@@ -2,6 +2,8 @@
 
 Sistema inteligente de Q&A sobre fútbol español, competiciones europeas y selecciones nacionales, implementado con Azure Language Service (Custom Question Answering) y desplegado en Azure Static Web Apps.
 
+**🌐 Aplicación desplegada en Azure**
+
 ## 🌐 Demo en Vivo
 
 **URL de la aplicación**: [Será generada al desplegar en Azure Static Web Apps]
